@@ -1,1 +1,5 @@
 plan.txt
+.config
+*.swp
+*.swo
+*.swn
